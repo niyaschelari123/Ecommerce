@@ -1,0 +1,32 @@
+.ravanu img{
+    width: 80px;
+    
+}
+.ravanu{
+    display: flex;
+    margin-bottom: 20px;
+    gap: 50px;
+    box-shadow: 0 0 4px rgb(188, 185, 185);
+    padding: 8px;
+    align-items: center;
+}
+.ravanu p{
+    width: 30%;
+}
+.updatemain{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.ravanu button{
+    height: 30px;
+    width: 70px;
+    border-radius: 8px;
+}
+.ravanu .tranfering{
+    padding: 20px;
+    color: red;
+}
+#transfering:visited{
+    background-color: blue;
+
+}

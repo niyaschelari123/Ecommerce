@@ -1,0 +1,127 @@
+.bottoms{
+    display: flex;
+    gap: 250px;
+}
+.bottoms button{
+    background: transparent;
+    border-radius: 5px;
+    color: blue;
+}
+.bots{
+    display: flex;
+    gap: 30px;
+}
+.bots p{
+    background-color: rgb(200, 208, 208);
+}
+.rows{
+    display: flex;
+}
+.changead{
+    display: block;
+    background-color: rgb(185, 253, 253);
+    width: 50%;
+    position: absolute;
+    top: 300px;
+    left: 350px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.changead img{
+    height: 30px;
+    position: absolute;
+    top: 20px;
+    left: 700px;
+    cursor: pointer;
+}
+.changead img:hover{
+    transform:scale(1.1);
+}
+.adhpan{
+    position: relative;
+}
+.hereit{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 70%;
+    
+    
+
+}
+.hereit button{
+    padding: 8px;
+    background-color: rgb(247, 114, 73);
+    color: white;
+}
+.hereit input{
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.grided{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+}
+.typevalue{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+#type{
+    margin-left: 10px;
+}
+
+.cartde{
+    display:flex;
+    gap: 50px;
+    align-items: center;
+    margin-bottom: 30px;
+    
+}
+.look img{
+    width: 100px;
+} 
+.cartin{
+    width: 100%;
+    margin-top: 30px;
+    outline: 1px solid rgb(157, 150, 150);
+    outline-offset: 20px;
+    
+}
+.look{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.deliv{
+    width: 40%;
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+.checkfinal{
+    display: flex;
+    gap: 200px;
+    padding: 40px;
+    align-items: center;
+}
+.checkfinal button{
+    background-color: rgb(231, 100, 53);
+    color: white;
+    padding: 8px;
+    border-radius: 7px;
+}
+
+.rightmost img{
+    height: 30px;
+    position: relative;
+    right: 30px;
+
+}

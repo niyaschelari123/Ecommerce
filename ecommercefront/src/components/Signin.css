@@ -1,0 +1,40 @@
+#tt{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.outer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+    gap: 40px;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    margin-top: 40px;
+}
+#spone{
+    font-size: 20px;
+}
+#spone::first-letter{
+    color: red;
+    font-size: 30px;
+}
+
+#sptwo{
+    color:rgb(135, 20, 20);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#ok{
+    padding: 5px;
+    width: 90px;
+    cursor: pointer;
+    border-radius: 7px;
+    background-color:rgb(209, 137, 247)
+}

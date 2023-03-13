@@ -1,0 +1,9 @@
+.ordermain img{
+    animation: animate 0.7s linear;
+}
+@keyframes animate{
+    0%{transform:scale(0)}
+    80%{transform:scale(1.1)}
+    100%{transform: scale(1)}
+
+}

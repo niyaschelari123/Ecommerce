@@ -1,0 +1,23 @@
+.supercoin .bottom{
+    display: flex;
+    margin-top: 70px;
+    
+}
+.supercoin .bottom img{
+    height: 80px;
+    width: 80px;
+    background-color:rgb(188, 199, 236);
+    padding: 13px;
+    border-radius: 50%
+    
+}
+.jkiu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.jkiu:hover{
+    transform: scale(1.05);
+}

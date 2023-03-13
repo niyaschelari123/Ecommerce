@@ -1,0 +1,19 @@
+.sear input{
+     width: 80%;
+     font-siza: 8px;
+     
+    }
+.sear img{
+    height: 30px;
+    color: white;
+    background-color: rgb(223, 205, 205);
+    padding: 5px;
+    margin-top: 2px;
+}
+.sear img:active{
+    transform: translate(1.1px,1.1px);
+}
+.sear{
+    display: flex;
+    gap: 2px;
+}

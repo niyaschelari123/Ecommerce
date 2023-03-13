@@ -1,0 +1,80 @@
+footer {
+  background-color: #0f3460;
+  padding: 100px 0;
+  color: #fff;
+ margin-top: 80px;
+}
+footer h1 {
+  margin-bottom: 10px;
+  color: #e94560;
+  font-weight: 800;
+  font-style: italic;
+  margin-top: -80px;
+}
+footer .img {
+  background-color: #0c2a4d;
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+footer .img i {
+  font-size: 20px;
+  margin: 5px;
+}
+footer .img span {
+  margin-top: 5px;
+}
+footer p {
+  font-size: 14px;
+  font-weight: 300;
+  opacity: 0.5;
+  margin-bottom: 20px;
+}
+footer h2 {
+  margin-bottom: 20px;
+}
+footer li {
+  margin-bottom: 10px;
+  opacity: 0.5;
+}
+.icon{
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  align-items: center;
+  margin-bottom: 20px
+}
+.box ul{
+  height: 30px;
+  color:rgb(244, 8, 8);
+  
+}
+.box li{
+  margin-top: 5px;
+}
+.box h2{
+  font-size: 20px;
+}
+.boxs {
+  
+  position: absolute;
+  
+  top: 0;
+  right: 10px;
+  
+}
+.boxs ul{
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+footer .container{
+  position: relative;
+  margin-bottom: -70px
+}
+#goog{
+  height: 20px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,38 @@
+#ttt{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.outerr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+    gap: 40px;
+}
+
+.bottomm{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    margin-top: 40px;
+}
+#sponee{
+    font-size: 20px;
+}
+#sponee::first-letter{
+    color: red;
+    font-size: 30px;
+}
+
+#sptwoo{
+    color:rgb(135, 20, 20);
+}
+
+#okk{
+    padding: 5px;
+    width: 90px;
+    cursor: pointer;
+    border-radius: 7px;
+    background-color:rgb(209, 137, 247)
+}

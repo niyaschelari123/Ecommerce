@@ -1,0 +1,29 @@
+.advmain{
+    width: 86.1%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    box-shadow: 0 0 20px rgb(202, 196, 196);
+    margin-left: 7%;
+    background-size: cover;
+    background-image: url("https://t4.ftcdn.net/jpg/04/18/87/09/360_F_418870986_8b0cBx3TuaGwvkqdRQKexh1g4vmpTMrS.jpg");
+}
+.advmain .texts{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    margin-right: 70px;
+}
+.advmain img{
+    margin-left: -60px;
+}
+.advmain h3{
+    font-weight: bold;
+}
+.advmain button{
+    background-color: rgb(89, 89, 201);
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+}

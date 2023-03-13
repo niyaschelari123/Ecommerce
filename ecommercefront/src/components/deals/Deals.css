@@ -1,0 +1,21 @@
+.ordered{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    position:relative;
+    left: 0;
+    top: 30px;
+    background-color:rgb(96, 21, 129);
+    padding:  20px 10px;
+    cursor:pointer;
+}
+#kola{
+    
+    
+    
+    grid-column: 1/4;
+    height: 100px;
+   margin-top: -10px;
+    border: 1px solid black;
+    width: 100%;
+}

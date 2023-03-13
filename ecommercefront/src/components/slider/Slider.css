@@ -1,0 +1,54 @@
+.slmain{
+    margin-top: 150px;
+}
+.sdmain{
+    margin-top: 7px;
+    position: relative;
+    left: 150px;
+    height: 570px;
+    width: 50%;
+    display: flex;
+    border: 2px double black;
+    margin-bottom: 110px;
+    padding: 15px;
+    background-image:url("https://media.istockphoto.com/id/1305905498/vector/gray-and-white-diagonal-line-architecture-geometry-tech-abstract-subtle-background-vector.jpg?b=1&s=612x612&w=0&k=20&c=Wlsg-Fb7Mp1TixRjzoP_VslZRna6n1iB-FN1wReipGw=");
+}
+.left{
+    width: 100%;
+}
+.left h1{
+    color:rgb(253, 8, 0);
+    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-left: 60px;
+    font-size: 29px;
+}
+.btg{
+    margin-top: 40px;
+    margin-left: 60px;
+    padding: 10px;
+    border-radius: 20%;
+}
+.sdmain .right img{
+height: 400px;
+margin-top: 30px;
+}
+#ofer{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: rgb(9, 8, 9);
+    font-size: 15px;
+    padding: 5px;
+    border: 1px double black;
+    border-radius: 10px;
+    background-image: url("https://img.freepik.com/free-vector/shiny-white-gray-background-with-wavy-lines_1017-25101.jpg?w=360");
+}
+#ince{
+    padding: 5px;
+    position: absolute;
+    bottom: 65px;
+    left: 120px;
+    border-radius: 10px;
+    background-color:aqua;
+    color:rgb(38, 0, 255);
+}

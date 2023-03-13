@@ -1,0 +1,83 @@
+.sugfirst{
+    margin-top: 50px;
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    box-shadow: 0 0 8px rgb(139, 129, 129);
+    margin-left: 25px;
+}
+.sugfirst img{
+    height: 90px;
+}
+.sugfirst .text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#fder{
+    height: 25px;
+    position: absolute;
+    right: 5px;
+    cursor: pointer;
+}
+.bts{
+display: flex;
+align-items: center;
+position: relative;
+}
+.bts button{
+    padding: 5px;
+    background-color: rgb(69, 69, 225);
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+    width: 120px;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.sugsec{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    margin-left: 30px;
+   
+    
+}
+.sugsec img{
+    width: 20%;
+    margin-left: 25px;
+    margin-top: 20px;
+    border-right: 1px solid black;
+}
+.sugsec .text{
+    margin-left: 80px;
+    display: flex;
+    gap: 30px;
+}
+#tom{
+    position: absolute;
+    top:0;
+   left: 23%;
+   width: auto;
+   height: 150px;
+   border-right: none;
+}
+#jerry{
+    position: absolute;
+    top:35%;
+   left: 21%;
+   width: auto;
+   height: 180px;
+   border-right: none;
+}
+#gif{
+    position: absolute;
+    top: -110px;
+    right: 2%;
+    width: 55%;
+    border-radius: 20px;
+}

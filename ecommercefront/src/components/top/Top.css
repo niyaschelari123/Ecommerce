@@ -1,0 +1,26 @@
+.topmain{
+    background-color:#b8063b;
+    display:flex;
+    justify-content:space-between;
+    padding: 12px;
+    font-size: 10px;
+    color: white;
+}
+.topmain .second{
+    display: flex;
+    gap: 20px;
+    font-size: 5px;
+}
+.second img{
+    height: 20px;
+}
+.second .final{
+    margin-left: -15px;
+}
+.topmain h6{
+    font-size: 14px;
+    cursor: pointer;
+}
+.topmain h6:hover{
+    color:rgb(150, 134, 113);
+}

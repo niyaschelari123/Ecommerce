@@ -1,0 +1,90 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    margin: 50px 0;
+
+}
+#bb{
+    color: red;
+    box-shadow: 0 0 10px black;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 70px;
+}
+
+input{
+    border-bottom: 1px solid black;
+   
+}
+
+
+.aa{
+    font-size: 20px;
+    width: 30%;
+    border: none;
+    border-bottom: 1px solid black;
+
+    
+}
+
+#kane{
+    font-size: 20px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+input[type="file"]{
+    font-size: 20px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+#ta{
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 30px;
+    width: 30%;
+}
+
+#sub{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    background: transparent;
+    border: 1px solid rgba(146, 146, 227, 0.4);
+    box-shadow:1px 1px 10px black;
+}
+
+#koo{
+    font-size: 25px;
+    margin-bottom: -30px;
+}
+.aaa{
+    font-size: 15px;
+    width: 30%;
+    margin-top: 30px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#ppp{
+    font-size: 18px;
+    margin-top: 39px;
+    margin-right: 10px;
+}
+#bgyo{
+    position: absolute;
+    top: 200px;
+    right: 30px;
+    cursor: pointer;
+    border-bottom: 1px solid black;
+}
+#bgyo:hover{
+    color: grey;
+}

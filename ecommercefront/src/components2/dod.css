@@ -1,0 +1,65 @@
+
+.stuart{
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 5%;
+    position: relative;
+    height: 800px;
+    gap: 20px 1px;
+    
+
+    
+}
+.stuart .bottom{
+    position: absolute;
+    
+    bottom: -20px;
+}
+#fdt{
+    position: absolute;
+    bottom: 60px;
+    font-weight: bold;
+}
+
+    
+
+
+#reyst{
+    width: 300px;
+    
+}
+#fds{
+    background-color: red;
+    color: white;
+    padding: 7px;
+    border-radius: 7px;
+
+}
+#fdss{
+    color: red;
+    font-weight: bold;
+}
+.dodmain{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: -250px;
+    grid-row-gap: -150px;
+}
+#sunak:active{
+transform: translate(1.1px,1.1px);
+}
+#sunak{
+    cursor: pointer;
+}
+#ontitle{
+    color:red;
+    font-weight: bold;
+    margin-left: 45px;
+    margin-top: 30px;
+    border-bottom: 1px solid black;
+    font-size: 35px;
+}

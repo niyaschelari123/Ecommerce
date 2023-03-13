@@ -1,0 +1,51 @@
+.innermain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    margin-left: 10%;
+    
+}
+.indmain{
+    background-color:fff;
+    width: 100%;
+    height: 100vh;
+
+}
+.indmain img{
+    margin-top: 20%;
+    height: 350px
+}
+.indmain h3{
+    width: 70%;
+}
+#dinku{
+    width: 150px;
+    
+    padding: 2px;
+}
+.innermain .texts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top:4%;
+    
+}
+.innermain button{
+    width: 150px;
+    
+    padding: 5px;
+    border-radius: 8px;
+
+}
+.descr{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 10%;
+    font-size: 18px;
+}
+#pprice{
+    
+}
